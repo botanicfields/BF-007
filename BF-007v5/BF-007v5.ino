@@ -202,8 +202,6 @@ void setup()
 
 void loop()
 {
-  M5.update();
-
   // WiFi recovery
   WifiCheck();
 
